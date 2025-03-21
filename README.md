@@ -1,3 +1,4 @@
+
 # **Git Assessemt Project**
 🚀 *A collaborative project designed to learn Github workflows, handle pull requests, and resole merge conficcts*.
 
@@ -58,3 +59,6 @@ Clone the project to your local machine:
 git clone https://github.com/your-username/git-assessment.git
 
 cd git-assessment
+=======
+# git-assessment
+
